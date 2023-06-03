@@ -127,7 +127,7 @@ const Advantages = () => {
               <img
 
                 className="w-[431px] h-[579px] object-cover"
-                src="https://s3-alpha-sig.figma.com/img/5e56/648d/eba803747c88ea471c2306ea81135cbf?Expires=1682899200&Signature=jP9ByPHCfsCKEqt3Hgah0Learqi1EYyYmqYdc8IZguOUMA7xf1gX8NLE-5g3wSZGz~dE2IO~0TGrm8ESsLlYc~2Ob9dX~dw9sKp6R0dyRSFoEpWwT1rUyaKF6msCXuWmcMpw9v7qktXS2xWWz9n3I9T6AEXZEPWqkbatfFwtFSwwj3Btb6uFcaAEU~TEnaK90ZwAtq9XcI9HhyU7AQhRg6ALW1IFWrv~R6QRWVJtzaI2q0TykC-TsV8VJGCPAfumz21YIBWbiE72K4GLNPNYUwF8LmUNYWZetted4oVZ78CUTXaL0KXyReEAbccT0b3C4IOYoFitq3igyL~oRWfIAg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                src="https://s3-alpha-sig.figma.com/img/5e56/648d/eba803747c88ea471c2306ea81135cbf?Expires=1686528000&Signature=nnRgMArAgyUcHO04r4B~NvvY7KSgfVMBR1kv25CHeX7u8C6PY7zDvMdnOHFDKKqkvQhg7y5kzuT-y1ew5UbpHzi1X7Bi~zIrwqN7Rl0gzlhZn1VdfxBxbL1rV8K2woqgjrx3FGnAG-dNWJEO5IhEaMy3NgF7LK1jWGsncndxJZDulyrDbnjHSNYpUrpalZmmbAssQFf-ZSeY4~x0bJs6r-5HN4TpDCPAi9Rg-v-vp8xhmkMc70oOJxCyhYgPkL4xprlHrshrkZTndY07eppKOm4iajtoQ5d7l3ra2maop-WF-N9GcbTJ6sQujBdZgvg~mAeIy0IOvhRt74YNlnpIRw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
               />
 
             </div>
